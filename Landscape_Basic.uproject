@@ -12,13 +12,6 @@
 			]
 		},
 		{
-			"Name": "Postshot",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
 			"Name": "PCG",
 			"Enabled": true
 		}
